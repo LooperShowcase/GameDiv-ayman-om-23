@@ -57,7 +57,7 @@ body{background-color: rgb(202, 156, 97);}
     h1 {
       font-size: 36px;
     }
-    .cards {
+    #cards {
       grid-template-columns: repeat(3, 140px);
       grid-template-rows: repeat(4, 210px);
       grid-gap: 10px;
